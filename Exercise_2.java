@@ -1,5 +1,6 @@
 public class StackAsLinkedList { 
-  
+  // Time Complexity: O(1) for all operations
+    // Space Complexity: O(n) where n is the size of the stack
     StackNode root; 
   
     static class StackNode { 

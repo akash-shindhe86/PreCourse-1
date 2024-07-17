@@ -2,7 +2,9 @@ import java.io.*;
   
 // Java program to implement 
 // a Singly Linked List 
-public class LinkedList { 
+public class LinkedList {
+    // Time Complexity: O(n) for all operations
+    // Space Complexity: O(n) where n is the size of the list 
   
     Node head; // head of list 
   
